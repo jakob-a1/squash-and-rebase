@@ -12,17 +12,17 @@ some info
 # I have something to add too
 
 This thing acts in a completely different manner, so you need to treat it differently. Follow these steps.
-* step 1
+* steep 1
 * step 2
 * step 3
-* do another thing
+* do another things and stuff
 
 
 # Add another section
 
 * and more info
-> note this! You don't want to do this thing!
+> not this! You don't want to do this thing!
 
-# More features!
+# Other features!
 
-more info!
+some more info
