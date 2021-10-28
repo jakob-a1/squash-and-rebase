@@ -26,3 +26,7 @@ This thing acts in a completely different manner, so you need to treat it differ
 # More features!
 
 more info!
+
+# One last section
+
+with some more info
