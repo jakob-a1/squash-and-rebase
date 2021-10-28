@@ -21,7 +21,7 @@ This thing acts in a completely different manner, so you need to treat it differ
 # Add another section
 
 * and more info
-> note this!
+> note this! You don't want to do this thing!
 
 # More features!
 
