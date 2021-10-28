@@ -8,3 +8,10 @@ and another line
 some info
 
 * do this thing
+
+# I have something to add too
+
+This thing acts in a completely different manner, so you need to treat it differently. Follow these steps.
+* step 1
+* step 2
+* step 3
