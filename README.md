@@ -12,7 +12,7 @@ some info
 # I have something to add too
 
 This thing acts in a completely different manner, so you need to treat it differently. Follow these steps.
-* step 1
+* steep 1
 * step 2
 * step 3
 * do another thing
@@ -21,4 +21,7 @@ This thing acts in a completely different manner, so you need to treat it differ
 # Add another section
 
 * and more info
-> note this!
+> not this! you don't want todo this thing.
+
+
+# Some mor instructions
