@@ -3,13 +3,13 @@
 add some info
 
 and another line
-# Add section with info about this change
+# Add something with info about this change
 
 some info
 
 * do something, but not this thing
 
-# I have something to add too
+# I have another thing to add too
 
 This thing acts in a completely different manner, so you need to treat it differently. Follow these steps.
 * steep 1
